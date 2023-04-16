@@ -1,11 +1,1 @@
-#include <stdio.h>
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    printf( "Hola mundo." );
-
-    return 0;
-}
+Compilador MSYS2
